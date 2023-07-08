@@ -1,0 +1,15 @@
+D:\Tugas Pemrog\pertemuan8\pewarisan\bin\Debug\net7.0\pewarisan.exe
+D:\Tugas Pemrog\pertemuan8\pewarisan\bin\Debug\net7.0\pewarisan.deps.json
+D:\Tugas Pemrog\pertemuan8\pewarisan\bin\Debug\net7.0\pewarisan.runtimeconfig.json
+D:\Tugas Pemrog\pertemuan8\pewarisan\bin\Debug\net7.0\pewarisan.dll
+D:\Tugas Pemrog\pertemuan8\pewarisan\bin\Debug\net7.0\pewarisan.pdb
+D:\Tugas Pemrog\pertemuan8\pewarisan\obj\Debug\net7.0\pewarisan.csproj.AssemblyReference.cache
+D:\Tugas Pemrog\pertemuan8\pewarisan\obj\Debug\net7.0\pewarisan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Pemrog\pertemuan8\pewarisan\obj\Debug\net7.0\pewarisan.AssemblyInfoInputs.cache
+D:\Tugas Pemrog\pertemuan8\pewarisan\obj\Debug\net7.0\pewarisan.AssemblyInfo.cs
+D:\Tugas Pemrog\pertemuan8\pewarisan\obj\Debug\net7.0\pewarisan.csproj.CoreCompileInputs.cache
+D:\Tugas Pemrog\pertemuan8\pewarisan\obj\Debug\net7.0\pewarisan.dll
+D:\Tugas Pemrog\pertemuan8\pewarisan\obj\Debug\net7.0\refint\pewarisan.dll
+D:\Tugas Pemrog\pertemuan8\pewarisan\obj\Debug\net7.0\pewarisan.pdb
+D:\Tugas Pemrog\pertemuan8\pewarisan\obj\Debug\net7.0\pewarisan.genruntimeconfig.cache
+D:\Tugas Pemrog\pertemuan8\pewarisan\obj\Debug\net7.0\ref\pewarisan.dll
